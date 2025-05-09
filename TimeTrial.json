@@ -1,0 +1,13 @@
+{
+    "id": "TimeTrial",
+    "name": "Balatro Time Trial",
+    "author": ["mrdarrengriffin"],
+    "description": "Act in a flash to keep your cash!",
+    "prefix": "b_time_trial",
+    "main_file": "TimeTrial.lua",
+    "badge_colour": "c7638f",
+    "dependencies": [
+        "Steamodded (>=1.0.0~ALPHA-1225a)"
+    ],
+    "version": "0.0.1"
+}
